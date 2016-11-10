@@ -1,0 +1,26 @@
+{
+  "name": "twitter-promise",
+  "version": "1.0.0",
+  "description": "Twitter API Promise",
+  "main": "./lib/twitter-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://the-nobody@github.com/the-nobody/twitter-promise.git"
+  },
+  "keywords": [
+    "twitter",
+    "promise"
+  ],
+  "author": "The Nobody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-nobody/twitter-promise/issues"
+  },
+  "homepage": "https://github.com/the-nobody/twitter-promise#readme",
+  "dependencies": {
+    "request": "^2.78.0"
+  }
+}
