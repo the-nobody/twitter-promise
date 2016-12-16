@@ -3,12 +3,12 @@
 Twitter promise is a Class utility for accessing the Twitter API.
 
 ## installing
-```
+```console
 npm install twitter-promise --save  
 ```
 
 ## including in your code
-```
+```javascript
 const Twitter = require("twitter-promise")
 ```
 
@@ -19,7 +19,7 @@ Example:
 
 ## TwitterServer.js
 or create your own name
-```
+```javascript
 const Twitter = require("twitter-promise");
 
 Class TwitterServer extends Twitter {
@@ -50,7 +50,7 @@ module.exports = TwitterServer
 
 ## Using
 TwitterServer.js in some other file
-```
+```javascript
 // using TwitterServer
 const TwitterServer = require("TwitterServer.js");
 const tw = new TwitterServer({
