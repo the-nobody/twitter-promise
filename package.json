@@ -1,6 +1,6 @@
 {
   "name": "twitter-promise",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Twitter API Promise",
   "main": "./lib/twitter-promise.js",
   "scripts": {
